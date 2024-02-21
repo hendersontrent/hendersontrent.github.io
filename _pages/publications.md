@@ -11,7 +11,7 @@ Below are my publications and preprints. You can also find them on [my google sc
 
 **T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the theft Package. In: *arXiv:2208.06146* (2022).[arXiv link]([https://arxiv.org/abs/2303.17809](https://arxiv.org/abs/2208.06146)). [Code link](https://github.com/hendersontrent/theft-paper)
 
-**T. Henderson**, and B.D. Fulcher. An Empirical Evaluation of Time-Series Feature Sets. In: *IEEE ICDM 2021*. [Paper link](https://ieeexplore.ieee.org/document/9679937) [Code link](https://github.com/hendersontrent/feature-set-comp)
+**T. Henderson**, and B.D. Fulcher. An Empirical Evaluation of Time-Series Feature Sets. In: *IEEE ICDM 2021*. [Paper link](https://ieeexplore.ieee.org/document/9679937). [Code link](https://github.com/hendersontrent/feature-set-comp)
     
 J.J. Kim, T. Best, **T. Henderson**, R. Cunnington, and J.N. Kirby. Neural and Self-Report Markers of Reassurance: A Generalized Additive Modelling Approach. In: *Frontiers in Psychiatry* (2020). [Paper link](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.566141/full). [Code link](https://github.com/hendersontrent/brain-activation-modelling)
     
