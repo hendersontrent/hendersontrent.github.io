@@ -11,9 +11,9 @@ title                    : "Trent Henderson"
 title_separator          : "-"
 name                     : &name "Trent Henderson"
 description              : &description "PhD Student at The University of Sydney"
-url                      : https://trenthenderson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hendersontrent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "trenthenderson.github.io"
+repository               : "hendersontrent.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
