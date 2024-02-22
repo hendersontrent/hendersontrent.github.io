@@ -9,7 +9,7 @@ Below are my publications and preprints. You can also find them on [my google sc
 
 **T. Henderson**, A.G. Bryant, and B.D. Fulcher. Never a Dull Moment: Distributional Properties as a Baseline for Time-Series Classification. In: *arXiv:2203.17809* (2023). [arXiv link](https://arxiv.org/abs/2303.17809). [Code link](https://github.com/hendersontrent/mean-var-ts-classify)
 
-**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the theft Package. In: *arXiv:2208.06146* (2022).[arXiv link]([https://arxiv.org/abs/2303.17809](https://arxiv.org/abs/2208.06146)). [Code link](https://github.com/hendersontrent/theft-paper)
+**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the theft Package. In: *arXiv:2208.06146* (2022). [arXiv link]([https://arxiv.org/abs/2303.17809](https://arxiv.org/abs/2208.06146)). [Code link](https://github.com/hendersontrent/theft-paper)
 
 **T. Henderson**, and B.D. Fulcher. An Empirical Evaluation of Time-Series Feature Sets. In: *IEEE ICDM 2021*. [Paper link](https://ieeexplore.ieee.org/document/9679937). [Code link](https://github.com/hendersontrent/feature-set-comp)
     
