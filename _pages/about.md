@@ -16,7 +16,7 @@ Outside of my direct research, I am also working on [GAM.jl](https://github.com/
 
 ### Professional background
 
-I am currently a Senior Data Scientist at the management consulting firm [Nous Group](https://nousgroup.com/people/trent-henderson/) where I have worked for over 5 years. My role is quite diverse, but I most often find myself working on large and complex program evaluations for the Australian Government which required detailed data linkage, rigorous causal inference, and statistical modelling. I also develop internal software packages for Nous and help maintain its large SQL data warehouse.
+I am currently a Senior Data Scientist at the management consulting firm [Nous Group](https://nousgroup.com/people/trent-henderson/) where I have worked for over 5 years. My role is quite diverse, but I most often find myself working on large and complex program evaluations for the Australian Government which required detailed data linkage, rigorous causal inference, and statistical modelling. The vast majority of this work falls somewhere between applied statistics and econometrics. I also develop internal software packages for Nous and help maintain its large SQL data warehouse.
 
 ### Outside of work
 
