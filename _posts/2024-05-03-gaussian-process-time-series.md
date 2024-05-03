@@ -1432,7 +1432,7 @@ display: none;
 #TOC {
 margin: 25px 0px 20px 0px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 #TOC {
 position: relative;
 width: 100%;
@@ -1449,19 +1449,19 @@ padding-left: 30px;
 padding-right: 40px;
 }
 div.main-container {
-max-width: 1200px;
+max-width: 1500px;
 }
 div.tocify {
 width: 20%;
 max-width: 260px;
 max-height: 85%;
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 1200px) and (max-width: 1500px) {
 div.tocify {
 width: 25%;
 }
 }
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
 div.tocify {
 width: 100%;
 max-width: none;
@@ -1496,21 +1496,6 @@ border-radius: 0px;
 </div>
 
 <div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
-
-
-<div id="header">
-
-
-
-<h1 class="title toc-ignore">Interpretable time-series modelling using
-Gaussian processes</h1>
-<h4 class="author">Trent Henderson</h4>
-<h4 class="date">2024-05-03</h4>
-
-</div>
-
 
 <div id="introduction" class="section level1" number="1">
 <h1><span class="header-section-number">1</span> Introduction</h1>
