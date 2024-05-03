@@ -1501,7 +1501,7 @@ border-radius: 0px;
 <h1><span class="header-section-number">1</span> Introduction</h1>
 <p>Welcome! If it wasn’t already obvious, I love time-series analysis,
 so we are going to dive deep into it here. Another thing I love is <a href="https://en.wikipedia.org/wiki/Gaussian_process">Gaussian
-processes</a> (GP), so why not combine the two?! We’ll get into the
+processes</a> (GP), so why not combine the two? We’ll get into the
 details later, but GPs are an insanely powerful tool that can model an
 absurd range of data (including continuous and discrete) in an
 interpretable way that gives the modeller a large degree of control over
