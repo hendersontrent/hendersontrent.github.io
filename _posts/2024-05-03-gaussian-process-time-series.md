@@ -1453,7 +1453,7 @@ max-width: 1500px;
 }
 div.tocify {
 width: 20%;
-max-width: 260px;
+max-width: 1000px;
 max-height: 85%;
 }
 @media (min-width: 1200px) and (max-width: 1500px) {
