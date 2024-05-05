@@ -2117,7 +2117,7 @@ own work.</p>
 <p>Before we define the GP itself, for ease and clarity, we are going to
 define a simple function which automatically computes and sums the
 covariance functions we want. Note that we are actually going to add
-noise in the GP function itself for computational stability reasons.
+noise in the GP function itself since only the covariance matrix between observations contain noise.
 There are much more flexible and extensible ways to define a composite
 kernel, but the method below is simple for our purposes.</p>
 <pre class="r"><code>#&#39; Additive kernel of exponentiated quadratic, periodic, and white noise
