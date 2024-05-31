@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Epic fantasy writing"
-permalink: /talks/
+permalink: /epic-fantasy-writing/
 author_profile: true
 ---
 
