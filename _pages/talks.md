@@ -7,7 +7,7 @@ author_profile: true
 
 ## Shadow of the Eternal Sun
 
-First three unedited chapters for my epic fantasy novel *Shadow of the Eternal Sun* available as a preview while I finish editing the book and engage literary agents for publication representation.
+Below, the first three unedited chapters for my epic fantasy novel *Shadow of the Eternal Sun* are available as a preview while I finish editing the book and engage literary agents for representation.
 
 ### One sentence summary
 
