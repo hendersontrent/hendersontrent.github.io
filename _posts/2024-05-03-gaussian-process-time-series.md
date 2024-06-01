@@ -6,6 +6,7 @@ tags:
   - statistics
   - gaussianprocesses
   - timeseries
+  - bayes
 ---
 
 <html>
