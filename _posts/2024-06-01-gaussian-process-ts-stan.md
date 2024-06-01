@@ -17,13 +17,6 @@ tags:
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
-
-<meta name="author" content="Trent Henderson" />
-
-<meta name="date" content="2024-06-01" />
-
-<title>Interpretable time-series modelling using Gaussian processes (Stan’s Version)</title>
-
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
 document.addEventListener('DOMContentLoaded', function(e) {
