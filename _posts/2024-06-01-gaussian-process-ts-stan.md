@@ -350,19 +350,11 @@ display: none;
 
 <div id="header">
 
-
-
-<h1 class="title toc-ignore">Interpretable time-series modelling using
-Gaussian processes (Stan’s Version)</h1>
-<h4 class="author">Trent Henderson</h4>
-<h4 class="date">2024-06-01</h4>
-
 </div>
 
 
 <div id="ahoy" class="section level1">
-<h1>Ahoy!</h1>
-<p>Welcome back to my nascent blog. It turned out that quite a few
+<p>Ahoy! Welcome back to my nascent blog. It turned out that quite a few
 people found my last post regarding <a href="https://hendersontrent.github.io/posts/2024/05/gaussian-process-time-series/">interpretable
 time-series modelling using Gaussian processes</a> useful and/or
 informative, so I felt sufficiently motivated to write a follow up
