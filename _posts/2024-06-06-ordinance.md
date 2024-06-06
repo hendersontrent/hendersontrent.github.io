@@ -16,13 +16,6 @@ tags:
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
-
-<meta name="author" content="Trent Henderson" />
-
-<meta name="date" content="2024-06-06" />
-
-<title>Ordinance: Make ordinal regression intuitive with marginal effects</title>
-
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
 document.addEventListener('DOMContentLoaded', function(e) {
@@ -350,20 +343,6 @@ display: none;
 
 
 <div class="container-fluid main-container">
-
-
-
-
-<div id="header">
-
-
-
-<h1 class="title toc-ignore">Ordinance: Make ordinal regression
-intuitive with marginal effects</h1>
-<h4 class="author">Trent Henderson</h4>
-<h4 class="date">2024-06-06</h4>
-
-</div>
 
 
 <div id="introduction" class="section level1">
