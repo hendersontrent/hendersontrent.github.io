@@ -7,7 +7,7 @@ author_profile: true
 
 ## Shadow of the Eternal Sun
 
-Below, the first three unedited chapters for my epic fantasy novel *Shadow of the Eternal Sun* are available as a preview while I finish editing the book and engage literary agents for representation.
+Below, the first three unedited chapters for my epic fantasy novel *Shadow of the Eternal Sun* are available as a preview while I finish editing the book and engage literary agents for representation. Shadow of the Eternal Sun is the first book in my *Choir of the Cosmos* trilogy.
 
 ### One sentence summary
 
