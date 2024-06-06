@@ -344,6 +344,10 @@ display: none;
 
 <div class="container-fluid main-container">
 
+<div id="header">
+
+</div>
+
 
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
