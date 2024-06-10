@@ -344,6 +344,13 @@ display: none;
 
 <div class="container-fluid main-container">
 
+
+
+
+<div id="header">
+
+</div>
+
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <p>Howdy! Today we are going to be talking all things ordinal variables.
