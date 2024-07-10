@@ -1428,7 +1428,7 @@ display: none;
 #TOC {
 margin: 25px 0px 20px 0px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 #TOC {
 position: relative;
 width: 100%;
@@ -1445,19 +1445,19 @@ padding-left: 30px;
 padding-right: 40px;
 }
 div.main-container {
-max-width: 1200px;
+max-width: 1500px;
 }
 div.tocify {
 width: 20%;
-max-width: 260px;
+max-width: 1000px;
 max-height: 85%;
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 1200px) and (max-width: 1500px) {
 div.tocify {
 width: 25%;
 }
 }
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
 div.tocify {
 width: 100%;
 max-width: none;
