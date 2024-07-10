@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Trent Henderson"
 title_separator          : "-"
 name                     : &name "Trent Henderson"
-description              : &description "Senior Data Scientist at Nous Group & PhD Student at The University of Sydney"
+description              : &description "Lead Data Scientist at Nous Group & PhD Student at The University of Sydney"
 url                      : https://hendersontrent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hendersontrent.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Trent Henderson"
   avatar           : "bio-photo.jpg"
-  bio              : "Senior Data Scientist at Nous Group & PhD Student at The University of Sydney"
+  bio              : "Lead Data Scientist at Nous Group & PhD Student at The University of Sydney"
   location         : "Canberra, Australia"
   employer         :
   pubmed           : 
