@@ -1,5 +1,5 @@
 ---
-title: 'Learning the temporal dynamics of climate data using interpretable machine learning'
+title: 'Using deep learning in PyTorch on rainfall data to predict Australian area remoteness'
 date: 2025-08-06
 permalink: /posts/2025/08/climate-deep-learning/
 tags:
