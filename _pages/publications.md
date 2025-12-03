@@ -7,7 +7,7 @@ author_profile: true
 
 Below are my publications and preprints. You can also find them on [my google scholar profile](https://scholar.google.com.au/citations?user=I7zD5ewAAAAJ&hl=en). 
 
-**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the Theft Ecosystem. In: *The R Journal* (2025). [Paper link]([https://journal.r-project.org/articles/RJ-2025-023/]). [Code link](https://journal.r-project.org/articles/RJ-2025-023/RJ-2025-023.zip).
+**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the Theft Ecosystem. In: *The R Journal* (2025). [Paper link](https://journal.r-project.org/articles/RJ-2025-023/). [Code link](https://journal.r-project.org/articles/RJ-2025-023/RJ-2025-023.zip).
 
 **T. Henderson**, A.G. Bryant, and B.D. Fulcher. Never a Dull Moment: Distributional Properties as a Baseline for Time-Series Classification. In: *arXiv:2203.17809* (2023). [arXiv link](https://arxiv.org/abs/2303.17809). [Code link](https://github.com/hendersontrent/mean-var-ts-classify).
 
