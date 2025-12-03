@@ -7,9 +7,9 @@ author_profile: true
 
 Below are my publications and preprints. You can also find them on [my google scholar profile](https://scholar.google.com.au/citations?user=I7zD5ewAAAAJ&hl=en). 
 
-**T. Henderson**, A.G. Bryant, and B.D. Fulcher. Never a Dull Moment: Distributional Properties as a Baseline for Time-Series Classification. In: *arXiv:2203.17809* (2023). [arXiv link](https://arxiv.org/abs/2303.17809). [Code link](https://github.com/hendersontrent/mean-var-ts-classify).
+**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the Theft Ecosystem. In: *The R Journal* (2025). [Paper link]([https://journal.r-project.org/articles/RJ-2025-023/]). [Code link](https://journal.r-project.org/articles/RJ-2025-023/RJ-2025-023.zip).
 
-**T. Henderson**, and B.D. Fulcher. Feature-Based Time-Series Analysis in R using the theft Package. In: *arXiv:2208.06146* (2022). [arXiv link]([https://arxiv.org/abs/2303.17809](https://arxiv.org/abs/2208.06146)). [Code link](https://github.com/hendersontrent/theft-paper).
+**T. Henderson**, A.G. Bryant, and B.D. Fulcher. Never a Dull Moment: Distributional Properties as a Baseline for Time-Series Classification. In: *arXiv:2203.17809* (2023). [arXiv link](https://arxiv.org/abs/2303.17809). [Code link](https://github.com/hendersontrent/mean-var-ts-classify).
 
 **T. Henderson**, and B.D. Fulcher. An Empirical Evaluation of Time-Series Feature Sets. In: *IEEE ICDM 2021*. [Paper link](https://ieeexplore.ieee.org/document/9679937). [Code link](https://github.com/hendersontrent/feature-set-comp).
     
