@@ -20,4 +20,4 @@ I am an Accredited Statistician and the Lead Data Scientist at the consulting fi
 
 ### Outside of work
 
-I can usually be found writing and producing music for my instrumental symphonic metal project [The Archon Rift](https://thearchonrift.bandcamp.com/album/the-harrowing-path-between-loathing-and-love), running, being a dungeon master for D&D campaigns, or playing far too many RPGs like Baldur's Gate 3.
+I can usually be found writing and producing music for my instrumental symphonic metal project [The Archon Rift](https://thearchonrift.bandcamp.com), running, being a dungeon master for D&D campaigns, or playing far too many RPGs like Baldur's Gate 3.
