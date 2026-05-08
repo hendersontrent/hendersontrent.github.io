@@ -350,11 +350,6 @@ display: none;
 
 <div id="header">
 
-<h1 class="title toc-ignore">Introducing: fable.gam, a new forecasting
-option</h1>
-<h4 class="author">Trent Henderson</h4>
-<h4 class="date">2026-05-08</h4>
-
 </div>
 
 
