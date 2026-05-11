@@ -407,7 +407,6 @@ f_{n}(x_{n})
 function used to connect the expected value to the target distribution,
 such as the log-link for the Poisson distribution, <span class="math inline">\(\beta_{0}\)</span> is the intercept, and <span class="math inline">\(f\)</span> are the unknown smooth functions to
 estimate. Note the similarity to the structural time series above!</p>
-<p>More</p>
 <p>Now, at this point, you might be wondering about the title of this
 post, and rightly so. How do GAMs fit into the forecasting software
 landscape? Well, they currently don’t really…</p>
