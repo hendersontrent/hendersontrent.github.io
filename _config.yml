@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Trent Henderson"
 title_separator          : "-"
 name                     : &name "Trent Henderson"
-description              : &description "Accredited Statistician & Principal at Endgame Analytics | PhD Student at The University of Sydney"
+description              : &description "Accredited Statistician & Principal at Endgame Analytics | PhD in statistical machine learning"
 url                      : https://hendersontrent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hendersontrent.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Trent Henderson"
   avatar           : "bio-photo.jpg"
-  bio              : "Accredited Statistician & Principal at Endgame Analytics | PhD Student at The University of Sydney"
-  location         : "Canberra, Australia"
+  bio              : "Accredited Statistician & Principal at Endgame Analytics | PhD in statistical machine learning"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=I7zD5ewAAAAJ&hl=en"
-  email            : "then6675@uni.sydney.edu.au"
+  email            : "trent.henderson@endgameanalytics.com.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
